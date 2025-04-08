@@ -2,7 +2,7 @@
 
 I am a passionate and dedicated Software Engineer on an endless quest to expand my skillset. I am a strong advocate for Open Source, and I love to collaborate.
 
-I currently work as a __Backend Developer (PHP, Laravel)__, but I also contribute to the __Frontend (JavaScript, TypeScript, React, Vue)__.
+I currently work as a __Backend Developer (PHP, Laravel)__, while also doing a lot of __Frontend development (JavaScript, TypeScript, React, Vue)__.
 
 ### 📋 Some facts about me
 
