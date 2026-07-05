@@ -2,7 +2,10 @@
 
 I am a passionate and dedicated Software Engineer on an endless quest to expand my skillset. I am a strong advocate for Open Source, and I love to collaborate.
 
-I currently work as a __Senior Full-Stack Developer (PHP, Laravel, JavaScript, TypeScript, React, Vue)__.
+### 💻 Currently, I am...
+
+* ...working as a __Senior Full-Stack Developer (PHP, Laravel, JavaScript, TypeScript, React, Vue)__;
+* ...building [GitPort](https://gitport.dev), [Terms Watch](https://www.terms.watch) and [YouTube Watch Later](https://www.youtube-watch-later.com).
 
 ### 📋 Some facts about me
 
